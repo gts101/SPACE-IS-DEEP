@@ -2,18 +2,11 @@
 A 3D visual exploration of some well known constellations. 
 
 # Abstract:
-The constellations, like Orion, Scorpius, and the Southen Cross, feel familiar and permanent, but their shapes only exist from our unique viewpoint on Earth. 
+The constellations, like Orion, Scorpius, and the Southen Cross, feel familiar and eternal, etched permanently into our night sky, but in reality, their shapes only exist from our unique viewpoint on Earth. 
 
-Using 3D visualisations, let's fly away from Earth, into deep space. As we travel, the constellations we know so well begin to twist and unravel. 
-
-From a new perspective, the constellations become unrecognisable, and we begin to glimpse how deep space really is.
+Using 3D visualisations, let's fly beyond Earth, out into deep space. As we travel, the constellations begin to twist and unravel around us. From our new perspective, the patterns of stars become unrecognisable, and we start to glimpse how deep space really is.
 
 By moving our viewpoint into the stars, the familiar patterns in the night sky transform into something vast, distorted, and profoundly three-dimensional.
-
-The constellations are not objects in space. They are perspectives.
-
-
-
 
 
 # SCRIPT:
@@ -21,16 +14,17 @@ The constellations are not objects in space. They are perspectives.
 ## Intro
 
 At night, we look up and see familiar patterns:
-like:
+like the:
 - Mighty Orion, the hunter, 
 - deadly creatures like Scorpius, with its venomous stinger
-- and mythical creatures like Pegasus, the winged horse
-...all these images, traced in starlight, across the heavens.
+- and mythical creatures like Pegasus, the winged horse...
+- ...all these images, 
+- traced in starlight, across the heavens.
 
-But these shapes:
+These shapes:
 - The Southern Cross
 - The Great Sqaure of Pegaus,
-...appear fixed, and timeless, in our night sky.
+- ...appear fixed, and timeless, in our night sky.
 
 In reality, the patterns we see are just:
 - an accident of placement,
@@ -44,10 +38,7 @@ we are glimpsing an abirary alignment, a chance perspective, inside the vast dep
 
 The constellations are not objects in space. They are perspectives.
 
-Let's look at an example, starting with a constellation most people know.
-
-...
-
+Let's look at an example, starting with a constellation most people know, the mighty Orion
 
 ## Orion
 
@@ -67,16 +58,14 @@ Because Orion lies close to the celestial equator, it can be seen from almost al
 ## Scorpius
 ...
 
-
-## Teapot
+## Pegasus
 ...
 
-## Galactic Center
+## Teapot + Galactic Center
 ...
 
 ## Home / Conclusiom
-
-## Titles
+...
 
 
 
@@ -103,6 +92,16 @@ Because Orion lies close to the celestial equator, it can be seen from almost al
 
 
 # Fragments
+
+
+
+The constellations are not really objects in space. They are just perspectives.
+
+
+
+
+
+
 
 This journey through familiar star patterns reveals a universe far larger, deeper, and stranger than the night sky first suggests. (refer strange to Antares super giant)
 
