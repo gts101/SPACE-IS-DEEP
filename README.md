@@ -8,6 +8,7 @@ Let's fly beyond Earth, into deep space. Using 3D visualisations, constellations
 
 By moving our viewpoint into the stars, patterns in the night sky transform into vast, distorted, and profoundly three-dimensional structures.
 
+![space-is-deep](space-is-deep.jpg)
 
 
 # SCRIPT:
