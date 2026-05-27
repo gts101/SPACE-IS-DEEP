@@ -2,11 +2,12 @@
 A 3D visual exploration of some well known constellations. 
 
 # Abstract:
-The constellations, like Orion, Scorpius, and the Southen Cross, feel familiar and eternal, etched permanently into our night sky, but in reality, their shapes only exist from our unique viewpoint on Earth. 
+Constellations are familiar and eternal, etched permanently into our night sky. Orion. Scorpius. The Southen Cross. In reality, their shapes exist only from our unique viewpoint on Earth. 
 
-Using 3D visualisations, let's fly beyond Earth, out into deep space. As we travel, the constellations begin to twist and unravel around us. From our new perspective, the patterns of stars become unrecognisable, and we start to glimpse how deep space really is.
+Let's fly beyond Earth, into deep space. Using 3D visualisations, constellations we know and love begin to twist and unravel around us. From this new perspective, the well known patterns become unfamiliar as we begin to see how deep space really is.
 
-By moving our viewpoint into the stars, the familiar patterns in the night sky transform into something vast, distorted, and profoundly three-dimensional.
+By moving our viewpoint into the stars, patterns in the night sky transform into vast, distorted, and profoundly three-dimensional structures.
+
 
 
 # SCRIPT:
@@ -31,7 +32,7 @@ In reality, the patterns we see are just:
 - a temporary alignment 
 ...in a huge galaxy, within a vast universe
 
-## Bridge
+### Bridge
 
 The stars in the night sky seem fixed and timeless, but in reality, 
 we are glimpsing an abirary alignment, a chance perspective, inside the vast depths of three-dimensional space.
@@ -56,6 +57,9 @@ Because Orion lies close to the celestial equator, it can be seen from almost al
 ...
 
 ## Scorpius
+...
+
+## Leo
 ...
 
 ## Pegasus
