@@ -1,12 +1,14 @@
 # Space Is Deep
 A 3D visual exploration of some well known constellations. 
 
-# Abstract:
-Constellations are familiar and eternal, etched permanently into our night sky. Orion. Scorpius. The Southen Cross. In reality, their shapes exist only from our unique viewpoint on Earth. 
+Space Is Deep
 
-Let's fly beyond Earth, into deep space. Using 3D visualisations, constellations we know and love begin to twist and unravel around us. From this new perspective, the well known patterns become unfamiliar as we begin to see how deep space really is.
+A 3D visual exploration of some well known constellations.
 
-By moving our viewpoint into the stars, patterns in the night sky transform into vast, distorted, and profoundly three-dimensional structures.
+# Abstract
+Constellations like Orion, Scorpius, and the Southern Cross are familiar and seemingly eternal, etched permanently into our night sky. In reality, their shapes exist only from our unique viewpoint on Earth, a chance alignment within the vast depths of space.
+
+Using 3D visualisations, we will leave Earth behind us and travel out towards the stars. As we move through space, the night sky transforms from a flat map above our heads into a vast cosmic structure surrounding us on all sides. The constellations we know and love begin to twist and unravel. From these new perspectives, familiar patterns become strange and distorted, revealing just how deep space really is.
 
 ![space-is-deep](space-is-deep.jpg)
 
@@ -98,7 +100,7 @@ Because Orion lies close to the celestial equator, it can be seen from almost al
 
 # Fragments
 
-
+By moving our viewpoint into the stars, patterns in the night sky transform into vast, distorted, and profoundly three-dimensional structures.
 
 The constellations are not really objects in space. They are just perspectives.
 
