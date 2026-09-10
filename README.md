@@ -166,7 +166,7 @@ star close up (Proxima)
 > But calling this star 'close' is stretching the word to its limit.
 
 > A light-year is the distance light travels in one year - nearly 9.5 trillion kilometres.
-> So at 4.2 light years, 
+> So at 4.24 light years, 
 > Proxima is about 40 trillion kilometres away.
 > This is an immense distance that's hard to fully understand.
 > Imagine driving at a madly irresponsible 200 km/h.
