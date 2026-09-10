@@ -141,6 +141,8 @@ DEMONSTRATE
 > As we return to the solar system, Leo comes back to us.
 
 > This is what we see from Earth.
+> The distinctive shape of the lion's head
+
 > These stars look like neighbours.
 > In space, they're anything but.
 
@@ -158,23 +160,41 @@ scales
 star close up (Proxima)
 
 > The closest star to our Sun is Proxima Centauri, about 4.24 light-years away.
-> This is stretching the word 'near' to its limit.
+> It lies close to Alpha Centuari,
+> the brightest star in the constellation Centaurus.
+
+> But calling this star 'close' is stretching the word to its limit.
 
 > A light-year is the distance light travels in one year - nearly 9.5 trillion kilometres.
-> So Proxima is about 40 trillion kilometres away.
+> So at 4.2 light years, 
+> Proxima is about 40 trillion kilometres away.
 > This is an immense distance that's hard to fully understand.
-
-> Imagine beasting along a highway at a madly irresponsible 200 km/h.
-> Even at that speed, it would take about 23 million years to reach Alpha Centauri.
+> Imagine driving at a madly irresponsible 200 km/h.
+> Even at that speed, it would take about 23 million years to reach Proxima Centauri.
 > And that is our nearest neighbouring star system.
-
+>
 > The stars we see in the Milky Way can be hundreds or thousands of light-years away.
-> Other galaxies are typically millions, or even billions of light-years from us.
+>
+> Eta Leonis, for example, looks connected to Leo from Earth.
+> But it is far more distant than the other main stars that make up the constellation.
+>
+> Eta Leonis lies about 1,270 light-years from Earth.
+> At 200 km/h, it would take almost 7 billion years to get there.
+
+> And deep within the boundaries of Leo,
+> we can see galaxies like the famous Leo Triplet,
+> millions of light-years away.
+
+> And farther still,
+> we see faint traces from the early universe,
+> travelling across billions of light-years to reach us.
 
 cut
 
 > In this simulation, we can cross those vast distances in moments.
-> In reality, these journeys would take longer than human civilisation has existed.
+> In reality, some of these journeys would take longer than human civilisation has existed.
+
+cut
 
 > A constellation is not a physical group of nearby stars.
 > It is a pattern created by perspective,
