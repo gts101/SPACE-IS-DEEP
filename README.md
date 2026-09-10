@@ -215,20 +215,24 @@ REINFORCE
 - Return to Earth view.
 
 > And this isn't something peculiar to Leo.
-> Consider the Southern Cross.
-> It's one of the most recognisable patterns in the southern sky.
+> The Southern Cross, or Crux,
+> is one of the most recognisable patterns in the southern sky.
 > Four bright stars seem to make an almost perfect cross.
+
+> This is an iconic shape
+> featuring on the flags of Australia, NZ, Brazil and PNG.
+> as well as a few Aussie tatoos
 
 3D reveal:
 
 > But again, the cross only exists from our viewpoint.
 > These stars aren't connected.
-> They're simply stars that happen to line up from our position in space.
+> There is no giant cross in space.
+> They're just stars that line up from our place in the galaxy.
 
 Then:
 
 > If we lived in a different part of the Milky Way,
-> or in a distant galaxy, far from Earth,
 > we'd see something else. Something alien.
 
 Fly back to Earth
